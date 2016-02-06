@@ -36,7 +36,7 @@ cacheSolve <- function(x, ...) {
     }
     data <- x$get()
     ## if not exsit, calculate it
-    inv <- solve(x)
+    inv <- solve(data,)
     x$setinv(inv)
     inv
 }
