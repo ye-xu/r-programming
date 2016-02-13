@@ -94,3 +94,4 @@ The variable names are
 The dimension of the dataset is 180*88.
 
 The subject.id contains 30 levels and the activity.id contains 6 levels.
+
