@@ -30,5 +30,5 @@ data.avg = data.req.w %>%
 label.act = read.table("/Users/yexu/Documents/coursera/UCI HAR Dataset/activity_labels.txt")
 dim(data.avg)
 data.avg[,1]= label.act[,2]
-names(data.avg) = "average"
-write.table(data.avg,"dataavg.txt",row.name =F)
+names(data.avg)
+write.table(data.avg,"/Users/yexu/Documents/coursera/dataavg.txt",row.name =FALSE)
