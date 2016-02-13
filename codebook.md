@@ -1,7 +1,7 @@
 The data used in this project is downloaded from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The variable name
+The variable names are
 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
